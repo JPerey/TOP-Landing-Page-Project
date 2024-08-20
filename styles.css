@@ -103,6 +103,7 @@ a {
     gap: 50px;
     align-items: center;
     padding: 10px 30px 10px 30px;
+    border-radius: 5px;
 }
 
 .bottom-4-blue-square button {
@@ -112,3 +113,11 @@ a {
     border-radius: 3px;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-weight: 300;
+    font-size: 13px;
+}
