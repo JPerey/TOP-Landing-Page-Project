@@ -87,3 +87,28 @@ a {
 #bottom-3 h6 {
     padding: 0 0 0 500px;
 }
+
+#bottom-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+}
+
+.bottom-4-blue-square {
+    background-color: #3882F6;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    align-items: center;
+    padding: 10px 30px 10px 30px;
+}
+
+.bottom-4-blue-square button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
