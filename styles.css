@@ -1,3 +1,30 @@
 * {
-    color:black;
+    font-family: Roboto;
 }
+
+.header-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.header-logo {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-nav-items {
+    display: flex;
+    gap: 20px;;
+    font-size: 18px;
+}
+
+a {
+    cursor: default;
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.
